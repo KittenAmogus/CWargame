@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/kitten/Documents/CWargame/build",
+  "command": "/usr/bin/cc  -I/home/kitten/Documents/CWargame/include -isystem /usr/include/SDL2 -Wall -Wextra -Wpedantic -o CMakeFiles/wargame.dir/src/main.c.o -c /home/kitten/Documents/CWargame/src/main.c",
+  "file": "/home/kitten/Documents/CWargame/src/main.c",
+  "output": "CMakeFiles/wargame.dir/src/main.c.o"
+}
+]

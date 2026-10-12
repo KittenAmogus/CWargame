@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/wargame.dir/link.d CMakeFiles/wargame.dir/src/main.c.o -o wargame  /usr/lib/libSDL2-2.0.so.0.3200.72 -lm

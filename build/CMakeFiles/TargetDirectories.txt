@@ -1,0 +1,3 @@
+/home/kitten/Documents/CWargame/build/CMakeFiles/wargame.dir
+/home/kitten/Documents/CWargame/build/CMakeFiles/edit_cache.dir
+/home/kitten/Documents/CWargame/build/CMakeFiles/rebuild_cache.dir
